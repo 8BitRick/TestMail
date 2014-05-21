@@ -1,4 +1,6 @@
 TestMail
 ========
 
-Testing mail in Rails
+Testing mail in Rails and hooking up Cloud9 with Github.
+
+This project is ghetto so please don't try to use it. Thanks.
